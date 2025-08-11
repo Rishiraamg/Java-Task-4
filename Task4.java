@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.*;
-
+//NOTES APP CREATED BY RISHIRAAM GOPINATH USING FILE METHODS
+//BY USING FILEWRITER, FILE, BUFFEREDREADER TO INTERACT WITH THE TEXT FILE
 public class Task4 {
     public static final String FILE_NAME = "notes.txt";
 
@@ -66,3 +67,4 @@ public class Task4 {
         }
     }
 }
+
